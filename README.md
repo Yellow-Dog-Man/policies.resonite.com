@@ -1,4 +1,4 @@
-# policies.resonite.com
+# [policies.resonite.com](https://policies.resonite.com)
 
 Dedicated website for our policies.
 
