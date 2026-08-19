@@ -2,7 +2,6 @@
 
 Dedicated website for our policies.
 
-
 # Structure
 
 Most of this website is hand rolled HTML, with [Water.css](https://watercss.kognise.dev/) for styling.
@@ -13,7 +12,10 @@ The exception to this are the Terms of Service and Privacy Policy which are base
 - Limited Dependencies
 - Hand Rolled HTML
 
-
 ## Why?
 
 The contents here used to be hosted on our [Main Website](https://github.com/Yellow-Dog-Man/Resonite-Website) but this was difficult to edit and manage.
+
+## Attributions
+
+- Cookie Icon from [Flaticon](https://www.flaticon.com/free-icon/cookie_5473473) by RIkas Dzihab
